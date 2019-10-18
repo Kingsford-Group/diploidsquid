@@ -1,3 +1,9 @@
+/*
+Part of Diploid-SQUID transcriptomic structural variation detector
+(c) 2019 by Yutong Qiu, Cong Ma, Han Xie, Carl Kingsford and Carnegie Mellon University.
+See LICENSE for licensing.
+*/
+
 #include "WriteIO.h"
 #include "SegmentGraph.h"
 #include "Config.h"

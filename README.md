@@ -1,11 +1,7 @@
-[//]: <[SQUID logo](doc/SquidLogo.png)>
 # OVERVIEW
 Diploid-SQUID is designed to detect both fusion-gene and non-fusino-gene transcriptomic structural variations (TSV) from RNA-seq alignment in heterogeneous contexts. It is built based on the TSV calling tool, [SQUID](https://github.com/Kingsford-Group/squid).
 
-Diploid-SQUID paper is published at [WABI 2019](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=11048). To reproduce the result of applying SQUID on simulation data and previously studied cell lines, follow the instructions from [dsquidtest](TBD)
-
-# INSTALLING PRE-COMPILED BINARIES
-You do NOT need to install SQUID before using it, find the binary release [here](https://github.com/Kingsford-Group/squid/releases)!
+Diploid-SQUID paper is published at [WABI 2019](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=11048). To reproduce the result of applying SQUID on simulation data and previously studied cell lines, follow the instructions from [dsquidtest](https://github.com/Kingsford-Group/dsquidtest)
 
 # BUILDING FROM SOURCE
 
